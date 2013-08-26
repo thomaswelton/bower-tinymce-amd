@@ -1,5 +1,6 @@
 bower-tinymce-amd
 =================
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/thomaswelton/bower-tinymce-amd/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
 Bower and require JS compatible version of tinymce
 
@@ -27,6 +28,3 @@ modules: [
 	}
 ]
 ```
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/thomaswelton/bower-tinymce-amd/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
